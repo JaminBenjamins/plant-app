@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jaminbenjamins.github.io/e-plantShopping",
+  "homepage": "https://jaminbenjamins.github.io/plant-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
